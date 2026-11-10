@@ -1,4 +1,3 @@
-
 # The Daily Grind — Express.js Server
 
 A basic web server built with Node.js and Express.js for a fictional coffee shop, The Daily Grind.
